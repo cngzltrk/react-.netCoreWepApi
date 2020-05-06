@@ -11,4 +11,4 @@
   - .netcore Webapi
   - postgresql
   
-  ![app.gif](https://github.com/cngzltrk/react-.netCoreWepApi/blob/master/app.gif)
+  ![App.gif](https://github.com/cngzltrk/react-.netCoreWepApi/blob/master/gif/App.gif)
